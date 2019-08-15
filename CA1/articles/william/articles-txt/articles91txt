@@ -1,0 +1,18 @@
+SINGAPORE: Sushi chain Genki Sushi has been fined S$16,000 for breaching the Personal Data Protection Act, after failing to secure the personal data of current and former employees.
+This left it vulnerable to a ransomware attack last September on one of its servers.
+Data compromised included employees’ names, NRIC and Foreign Identity Numbers, bank account information, salary details, mobile phone numbers and names of relatives.
+In a published decision on Jul 22, the Personal Data Protection Commission (PDPC) said investigations found that the compromised server was an off-the-shelf payroll software application that allowed employees to view their electronic payslips and for supervisors to confirm the attendance of their staff.
+As a result of the ransomware, personal data belonging to about 360 current and former employees was encrypted by the attacker.
+A ransom payment was demanded from Genki Sushi in exchange for the decryption key, although there was no evidence of the encrypted files getting stolen or disclosed without authorisation, said PDPC.
+The agency’s investigations showed that Genki Sushi did not have a firewall for the server initially. Even after one was installed following its recent IT migration, the company failed to configure the firewall to filter out external threats.
+“There was no firewall for a while, and even when installed, the server’s firewall was not configured to block any unused ports or unauthorised traffic at all material times,” PDPC said in its decision paper.
+“In other words, the server’s firewall was ineffective at filtering out any external threats.”
+Genki Sushi also did not conduct periodic penetration tests to assess the overall security of its IT systems, and did not ensure that the affected server and software were regularly patched, it added.
+The company acknowledged that it did not conduct any such tests within the last 12 months before the ransomware attack, and could not produce any evidence it had done any patching on the same during the same time.
+“The failures highlighted above contributed to a system that had a number of vulnerabilities and gaps that a hacker could easily exploit,” PDPC said. “For a server that held sensitive personal data, the security measures implemented by the organisation were inadequate.
+“In fact, the standard of protection provided was not even sufficient for non-sensitive personal data.”
+Genki Sushi said in representations before the PDPC that it did not pay the ransom amount to “positively discourage and disincentivise unauthorised and criminal behaviour by the ransomware attacker”.
+The incident also happened when the organisation’s new management was in the midst of the IT migration and strengthening of infrastructure, it added.
+However, these were not considered mitigating factors by the PDPC.
+CNA has reached out to Genki Sushi for its comments on the findings, and whether it managed to recover its employees' data.
+Since the incident, the sushi chain said it has tightened its IT security. Measures include replacing the affected server, encrypting its software’s database, engaging an external vendor to monitor its network and server logs as well as to assist with updating and patch management for the server.

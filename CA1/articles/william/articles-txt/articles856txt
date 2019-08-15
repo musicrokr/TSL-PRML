@@ -1,0 +1,42 @@
+SINGAPORE: The number of phishing attacks, ransomware incidents and website defacements in Singapore dropped in 2018, yet 
+ - the country’s most serious data breach in its history - is a “stark reminder” not be lulled into false security.
+Mr David Koh, CEO of the Cyber Security Agency (CSA), said in the foreword of the Singapore Cyber Landscape 2018 report released on Tuesday (Jun 18) that as cyberthreats grow in scale and sophistication, it is no longer a question of "if" but "when" an online attack will hit the country.
+“Even as we strive to make our systems as secure as possible, it is imperative that we respond to an incident swiftly, robustly and decisively,” Mr Koh wrote, adding that the SingHealth hack was a stark reminder to push further in Singapore’s cybersecurity efforts collectively as a nation.
+That said, the latest CSA report showed that there were fewer incidents of certain forms of cyberattacks.
+Website defacement, for one, fell from 2,040 cases in 2017 to 605 last year - a 70 per cent decline, the agency said.
+“Defacements are indicative of vulnerabilities present in a website’s underlying infrastructure. This may be a harbinger of more damaging cyberattacks, such as hosting malicious content on the website or using it as a platform to launch attacks,” CSA said.
+Those affected belonged to a range of organisations such as businesses, media companies and two government agencies. One victim was the Singapore website of a major Japanese advertising firm, which was compromised and replaced by a message “Sec == ‘0’” in January last year, the report said.
+Additionally, a spike in defacements took place last November, and it was likely caused by an attacker exploiting vulnerabilities in an unpatched Web server, it said.
+Websites published on WordPress remained the most targeted for defacements last year, continuing a trend observed since 2016, CSA said. It added that more than a third of websites defaced in Singapore were built on the platform.
+In fact, even after WordPress released an updated version of its platform and SingCERT published an alert after to advise website owners and Web hosting providers to update to the latest version last July, about 40 per cent of defaced WordPress websites have yet to be patched as of this March.
+When asked to elaborate on the reason for the decline in the number of cases, CSA told CNA that it may be premature to attribute the decline to any single factor seeing that the downward trend has only been for one year. It would also be premature to expect the decline to continue, CSA added.
+CSA did say, however, that there has been greater awareness of cyberthreats among organisations and the public "given the extensive media coverage of cyber breaches and cyber scams in Singapore and around the world".
+There was also a 30 per cent drop in the number of phishing URLs with a Singapore link seen last year, or specifically 16,100, the report said.
+There were spikes in the number of such phishing attempts during major events, with the biggest spike seen in May ahead of 
+ held in Singapore, it said.
+“(An) intelligence-gathering campaign targeted South Koreans with phishing emails. These contained malware that could be used for keylogging and executing malicious commands on compromised devices,” the report said.
+Meanwhile, the number of reported ransomware cases dropped from 25 in 2017 to 21 last year, CSA said, but it qualified that the actual number may be higher as “many go unreported”.
+It added the ransomware attacks affected systems across multiple industries in Singapore, such as construction, education and food and beverage.
+One particular variant of ransomware, GandCrab, was highlighted as it was used to infect a private financial institution in Singapore last February. The report said one of the institution’s employees surfed a compromised website and was duped into installing a “font update pack” for displaying the website properly, but it did not state if the ransom was paid in this instance.
+"Organisations have differing business needs and priorities, and many do not think that they are likely targets of a cyberattack," CSA said, explaining why some do not patch their IT systems as soon as possible.
+"Some organisations may also choose to delay system updates for fear of system slowdown or malfunction. But cyberthreats are here to stay. Anyone can be a victim, and the attackers are constantly probing for weaknesses," the agency cautioned.
+CSA also sounded a warning to small- and medium-sized enterprises (SMEs) that are going digital, saying that business email impersonation scams are expected to grow.
+The Singapore Police Force saw 378 such cases last year, up from 332 cases in 2017, the report said. Businesses here lost close to S$58 million in total, up about 31 per cent from 2017, it added.
+Mr Lim Yihao, senior threat intelligence analyst at FireEye, told CNA in an email that this finding was "most concerning".
+"Businesses are still falling victim to common tactics like business email impersonation and e-commerce scams," Mr Lim said, adding his recommendation for SMEs is to shore up email security as it remains the top attack vector.
+Besides looking back at the year past, CSA also reached for its crystal ball to look at cybersecurity trends for the future, highlighting six to watch out for.
+The six are:
+• More frequent data breaches
+Data has become the most valued commodity online, which means cybercriminals will try even harder to breach computer databases, particularly those that hold large amounts of private and personal information.
+• Increased threat to global supply chains
+Cyberattackers will focus on disrupting supply chains, which have become highly interconnected and automated. Industries dominated by a few companies are particularly vulnerable.
+• More disruptive attacks against the cloud
+As more databases are hosted on cloud computing systems, threat actors will eye potential vulnerabilities in this space for stealing data as well as for other malicious aims.
+• Greater risks for smart buildings, connected systems
+With the proliferation of Internet-of-Things (IoT) devices and connected industrial control systems, the risk of smart buildings being attacked also increases.
+• Artificial intelligence a double-edged sword
+AI can significantly enhance security systems; capabilities such as detecting anomalies, but online criminals can similarly use the tech to search for weaknesses in computer systems.
+• Biometric data to get more valuable
+As biometric authentication becomes increasingly common, threat actors will shift to target and manipulate these to build virtual identities and gain access to personal information. 
+CSA chief David Koh said the report is intended to provide useful lessons so Singapore can better prepare itself for the digital future.
+“As we advance towards our vision of a Smart Nation, cybersecurity is a vital prerequisite and key enabler – the invisible glue that instils trust and confidence in our digital plans,” Mr Koh said.
