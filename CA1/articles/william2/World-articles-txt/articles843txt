@@ -1,0 +1,14 @@
+NEW YORK: New vulnerabilities found in messaging app WhatsApp can be used by hackers to manipulate and intercept messages between users, a cybersecurity firm found.
+Israeli company, Check Point Research, said in an email release on Thursday (Aug 8) that it highlighted the flaws to WhatsApp towards the end of 2018.
+WhatsApp messages are encrypted so that they can only be seen by the recipient.
+But the cybersecurity firm said its researchers managed to create a tool that allowed them to "decrypt WhatsApp communication and spoof the messages".
+"By decrypting the WhatsApp communication, we were able to see all the parameters that are actually sent between the mobile version of WhatsApp and the Web version. This enabled us to then manipulate them and start looking for security issues," the firm said.
+Check Point researchers 
+ to alter messages and these were revealed during a presentation at the annual Black Hat security conference in Las Vegas on Wednesday.
+One of the methods involved the use of the “quote function” in a group conversation to change the sender’s identity.
+"In this attack, it is possible to spoof a reply message to impersonate another group member and even a non-existing group member," the firm said.
+Hackers can also change the text of someone’s reply and send private messages disguised as public messages to members of a group chat, so the target’s response is visible to all the participants in the conversation.
+"By doing so, it would be possible to incriminate a person, or close a fraudulent deal, for example," the firm said.
+A third vulnerability that has been fixed according to the firm involved allowing private messages sent to group members to be disguised as public. 
+"The three methods involve social engineering tactics to fool end-users," the firm said.
+"Instant messaging is a vital technology that serves us day-to-day, we manage our private and professional life on this platform and it’s our role in the infosec industry to alert on scenarios that might question the integrity,” Oded Vanunu, head of products vulnerability research at Check Point, was quoted by Forbes as saying.
